@@ -52,6 +52,14 @@ Development of a title insurance platform
     + Jira
 
 
+### Code examples:
+```
+function multiply(a, b){
+  a * b
+}
+```
+A [link](https://github.com/katsiarynarohach/rsschool-cv.git) to the last project.
+
 
 ### Languages:
 __English:__ Upper Intermediate
