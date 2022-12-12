@@ -2,6 +2,8 @@
 
 
 **********************************
+
+
 ![avatar](https://ibb.co/KjGhJvw)
 
 
@@ -86,7 +88,7 @@ __Russion:__ Native Speaker
 __Belorussion State University__ 
 
 
-    _Graduation:_ 2005
+_Graduation:_ 2005
 
-    
-    _Faculty:_ Applied Mathematics and Computer Science
+
+ _Faculty:_ Applied Mathematics and Computer Science
