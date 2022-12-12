@@ -4,7 +4,7 @@
 **********************************
 
 
-![avatar](https://postimg.cc/4myHM5hs)
+![avatar](https://i.postimg.cc/ncYKXSFj/edited-avatar.jpg)
 
 I'm a software testing engineer with 12+ years of experience in functional testing and quality assurance, including 4 + years of Project coordination, Team Leading and QA management experience.\
 \
