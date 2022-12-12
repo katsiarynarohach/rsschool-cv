@@ -4,8 +4,8 @@
 **********************************
 
 
-![avatar](https://ibb.co/KjGhJvw)
-
+[avatar](https://ibb.co/KjGhJvw)
+[avatar](https://postimg.cc/4myHM5hs)
 
 I'm a software testing engineer with 12+ years of experience in functional testing and quality assurance, including 4 + years of Project coordination, Team Leading and QA management experience.
 
@@ -80,7 +80,7 @@ A [link](https://github.com/katsiarynarohach/rsschool-cv.git) to the last projec
 __English:__ Upper Intermediate
 
 
-__Russion:__ Native Speaker
+__Russian:__ Native Speaker
 
 
 
@@ -88,7 +88,7 @@ __Russion:__ Native Speaker
 __Belorussion State University__ 
 
 
-_Graduation:_ 2005
+Graduation: 2005
 
 
- _Faculty:_ Applied Mathematics and Computer Science
+Faculty: Applied Mathematics and Computer Science
